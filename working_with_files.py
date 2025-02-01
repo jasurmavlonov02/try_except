@@ -34,3 +34,6 @@
 
 
 # 'r' , 'w' , 'a'
+
+with open('data.txt'):
+    pass
